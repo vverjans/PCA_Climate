@@ -1,5 +1,5 @@
 # PCA_Climate
-This repository includes the notebooks associated with the lecture "Principal Component Analysis" for the Climate System Seminar course 2024 at Pusan National University.
+This repository includes the notebooks associated with the lecture "Principal Component Analysis" for the "Climate System Seminar" and "Science in Climate Change" courses 2024 at Pusan National University.
 
 The theory for the chapter material is covered in class. These notebooks are codes to support the theory. A short theory summary is provided in the notebooks.
 The programming language is Python, and notebooks are displayed with jupyter notebook. To run the notebooks, you can simply download the github folder. For all functionalities, you will need the following libraries:
